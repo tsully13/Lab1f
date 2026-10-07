@@ -1,2 +1,4 @@
 # Lab1f
-Example: Cute Animal Photo Dispenser
+Example 1: Cute Animal Photo Dispenser
+Example 2: DEKU fandom chatboard
+
